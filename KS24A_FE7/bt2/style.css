@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(88, 88, 90);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+table{
+    background-color: rgb(88, 88, 90);
+    text-align: center;
+    border-radius: 10px;
+    border-spacing: 30px;
+    
+}
+h1{
+    color: rgb(204, 29, 29);
+}
+p{
+    color: blue;
+    font-size: 21px;
+}
+td{
+    background-color: rgb(216, 216, 236);
+}
